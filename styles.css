@@ -1,0 +1,47 @@
+*{
+    font-family: Arial, Helvetica, serif;
+}
+
+.top h1 {
+font-size: 64px;
+}
+
+.top p{
+    font-weight: 300;
+}
+
+img{
+    background-position: center;
+    background-size: cover;
+    width: 80%;
+}
+
+.lasagna img{
+    background-position: center;
+    background-size: cover;
+    width: 80%;
+}
+
+.lasagna p{
+     font-weight: 500;
+    margin-top: 0;
+    font-size: 16px;
+}
+
+.cats p{
+    margin-top: 0;
+    font-weight: 500;
+    font-size: 16px;
+}
+.text{
+    margin-top: 5px;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 2px;
+}
+.submit{
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-left: 5px;
+    padding: 3px 5px;
+}
